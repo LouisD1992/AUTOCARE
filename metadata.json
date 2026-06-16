@@ -1,0 +1,6 @@
+{
+  "name": "RoyalAuto Fleet",
+  "description": "Hệ thống theo dõi số km hành trình, định mức xăng dầu và quản trị bảo dưỡng đội xe công vụ doanh nghiệp tích hợp trợ lý AI thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
